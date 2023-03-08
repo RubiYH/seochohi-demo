@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/seochohi-demo/static/css/main.333d4584.css",
+    "main.js": "/seochohi-demo/static/js/main.98c4ec8f.js",
+    "static/media/Notes.png": "/seochohi-demo/static/media/Notes.4be90736f433922a1bce.png",
+    "static/media/mockup.png": "/seochohi-demo/static/media/mockup.112ca879db0d92257dd1.png",
+    "static/media/forest.png": "/seochohi-demo/static/media/forest.b5b98050630ab73ae35a.png",
+    "static/media/exams.png": "/seochohi-demo/static/media/exams.d25e89cfeb8e1f744a9a.png",
+    "static/media/schedule.png": "/seochohi-demo/static/media/schedule.4fffbeffd066b7357780.png",
+    "static/media/lunch.png": "/seochohi-demo/static/media/lunch.c87922ce39d0220aec6d.png",
+    "static/media/icon.png": "/seochohi-demo/static/media/icon.5ca1c451801bb28ba63b.png",
+    "static/media/slick.svg": "/seochohi-demo/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/seochohi-demo/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/seochohi-demo/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/seochohi-demo/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/seochohi-demo/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.333d4584.css",
+    "static/js/main.98c4ec8f.js"
+  ]
+}
